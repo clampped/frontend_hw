@@ -1,0 +1,39 @@
+﻿body {
+    background-color: #444b52;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    font-family: fantasy;
+}
+
+h1
+{
+    text-align: center;
+    color: white;
+}
+
+img {
+    width: 400px;
+    height: 350px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+ul
+{
+    margin: 20px auto;
+    padding: 0;
+    max-width: 300px;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
+
+a
+{
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 15px;
+}
